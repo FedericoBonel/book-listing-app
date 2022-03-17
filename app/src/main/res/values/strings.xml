@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="query_hint">Enter a book title</string>
+    <string name="search">Search</string>
+    <string name="no_internet">No internet connection :(</string>
+    <string name="empty_state">No books found or timed out :(</string>
+</resources>
